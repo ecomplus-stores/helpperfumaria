@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "PROMOÇÃO VIP TOUTI ! Na compra de 2 unid. leve a + 1 inteiramente GRÀTIS !!!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -19,9 +19,11 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 8,
+    "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }

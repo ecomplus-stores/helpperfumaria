@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "ENTREGAMOS PARA TODO O BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em Até 6x Sem Juros"
+    "text": "PARCELE EM ATÉ 6X SEM JUROS "
   },
   "exchange": {
     "show": true,
-    "text": "TRABALHAMOS COM PERFUMES NACIONAIS E IMPOTADOS "
+    "text": "TRABALHAMOS COM PERFUMES NACIONAIS E IMPORTADOS "
   },
   "promo": {
     "show": true,

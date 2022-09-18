@@ -6,12 +6,16 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -24,7 +28,8 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    }
+    },
+    {}
   ],
   "payment_methods": {
     "bb": true,

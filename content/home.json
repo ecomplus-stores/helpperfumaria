@@ -48,6 +48,10 @@
         {
           "img": "/img/uploads/banner-grid-2.png",
           "mobile_img": "/img/uploads/banner-grid-2.png"
+        },
+        {
+          "img": "/img/uploads/grid-banner-1.png",
+          "mobile_img": "/img/uploads/grid-banner-1.png"
         }
       ]
     },

@@ -24,9 +24,10 @@
       "/hinode?HINODE",
       "/paris-elizer?PARIS ELYSSES",
       "/natura?NATURA",
-      "/fattore?FATTORE"
+      "/fattore?FATTORE",
+      "/linha-infantil?LINHA INFANTIL"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": false,

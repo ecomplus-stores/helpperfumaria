@@ -44,6 +44,10 @@
         {
           "img": "/img/uploads/banner-grid-3.png",
           "mobile_img": "/img/uploads/banner-grid-3.png"
+        },
+        {
+          "img": "/img/uploads/banner-grid-2.png",
+          "mobile_img": "/img/uploads/banner-grid-2.png"
         }
       ]
     },

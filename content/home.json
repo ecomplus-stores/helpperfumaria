@@ -39,6 +39,18 @@
       "page": 4
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-09-20T04:16:49.658Z",
+      "end": "2022-09-21T04:16:49.717Z",
+      "offers": [
+        "62ccc628eb8591121682d6b0",
+        "62ccd101eb8591121682e4d6",
+        "62ccc61aeb8591121682d6a1"
+      ],
+      "notes": "NA COMPRA DE 3 UNID. - CADA UNIDADE FICARÁ NO VALOR DE R$ 69,90 - VOCÊ PODE ESCOLHER ENTRE AS 3 FRAGÂNCIAS DISPONÍVEIS - ATTIMO - HIBERNATUS E EURO MEN"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -59,18 +71,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-09-20T04:16:49.658Z",
-      "end": "2022-09-21T04:16:49.717Z",
-      "offers": [
-        "62ccc628eb8591121682d6b0",
-        "62ccd101eb8591121682e4d6",
-        "62ccc61aeb8591121682d6a1"
-      ],
-      "notes": "NA COMPRA DE 3 UNID. - CADA UNIDADE FICARÁ NO VALOR DE R$ 69,90 - VOCÊ PODE ESCOLHER ENTRE AS 3 FRAGÂNCIAS DISPONÍVEIS - ATTIMO - HIBERNATUS E EURO MEN"
     },
     {
       "type": "page-title",

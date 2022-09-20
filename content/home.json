@@ -36,7 +36,7 @@
       "title": "OFERTAS ESPECIAIS ",
       "headless": true,
       "limit": 15,
-      "page": 2
+      "page": 4
     },
     {
       "type": "banners-grid",

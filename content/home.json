@@ -61,6 +61,17 @@
       "sort": "news"
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-09-20T04:16:49.658Z",
+      "end": "2022-09-21T04:16:49.717Z",
+      "offers": [
+        "62ccc628eb8591121682d6b0",
+        "62ccd101eb8591121682e4d6",
+        "62ccc61aeb8591121682d6a1"
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Help Perfumaria & Cosméticos ",
       "description": "Sempre com produtos de qualidade e ofertas que cabem no seu bolso, LIBERTE O SEU PODER fique com cheiro de rica pagando pouco. "

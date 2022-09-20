@@ -34,7 +34,7 @@
       "collection_id": null,
       "sort": "offers",
       "title": "OFERTAS ESPECIAIS ",
-      "headless": true,
+      "headless": false,
       "limit": 15,
       "page": 4
     },
@@ -54,6 +54,11 @@
           "mobile_img": "/img/uploads/grid-banner-1.png"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "page-title",

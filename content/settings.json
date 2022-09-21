@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#ba30ba",
   "theme": {
-    "bootswatch": "litera",
+    "bootswatch": "_",
     "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "Inter",
   "favicon": "/img/uploads/38373-1_orig-8-.jpg",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ba30ba",
   "icon": "/img/uploads/38373-1_orig-8-.jpg",

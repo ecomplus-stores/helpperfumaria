@@ -76,6 +76,15 @@
       "type": "page-title",
       "title": "Help Perfumaria & Cosméticos ",
       "description": "Sempre Com Produtos de Qualidade e Preços Especiais Que Cabem no Seu Bolso, LIBERTE O SEU PODER com a Help Perfumaria, Fique Com Cheiro de Rica Pagando Pouco. "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/38373-banner-grid-contratipos-2.png",
+          "mobile_img": "/img/uploads/38373-banner-grid-contratipos-2.png"
+        }
+      ]
     }
   ]
 }

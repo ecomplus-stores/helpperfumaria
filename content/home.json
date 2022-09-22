@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif",
+          "alt": "Banner sample two",
+          "mobile_img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif"
+        },
+        {
           "img": "/img/uploads/38373-banner-vivinevo-2.png",
           "link": "",
           "alt": "FRETE GRÁTIS",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/38373-banner-vivinevo-2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif"
         }
       ]
     },

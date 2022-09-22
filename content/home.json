@@ -33,7 +33,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-potao-webp.webp",
-          "mobile_img": "/img/uploads/banner-potao-mobile-webp.webp"
+          "mobile_img": "/img/uploads/banner-potao-mobile-webp.webp",
+          "link": "/fattore"
         }
       ]
     },

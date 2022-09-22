@@ -113,7 +113,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/ofertas-imperdiveis-webp.webp",
-      "mobile_img": "/img/uploads/ofertas-imperdiveis-webp.webp"
+      "mobile_img": "/img/uploads/ofertas-imperdiveis-webp.webp",
+      "link": ""
     }
   ]
 }

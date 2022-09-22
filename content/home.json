@@ -84,7 +84,8 @@
       "banners": [
         {
           "img": "/img/uploads/38373-banner-grid-contratipos-2.png",
-          "mobile_img": "/img/uploads/38373-banner-grid-contratipos-2.png"
+          "mobile_img": "/img/uploads/38373-banner-grid-contratipos-2.png",
+          "link": "/paris-elizer"
         },
         {
           "img": "/img/uploads/38373-banner-grid-gel-massageador-2.png",

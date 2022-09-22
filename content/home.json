@@ -27,6 +27,12 @@
           "end": "",
           "img": "/img/uploads/loonkon-1200x300px-webp.webp",
           "mobile_img": "/img/uploads/loonkon-480x300px-mobile-webp.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-potao-webp.webp",
+          "mobile_img": "/img/uploads/banner-potao-mobile-webp.webp"
         }
       ]
     },

@@ -45,14 +45,14 @@
     {
       "type": "offers-timer",
       "max_hours": 1,
-      "start": "2023-08-04T04:38:34.335Z",
-      "end": "2023-09-30T04:16:49.717Z",
+      "start": "2023-10-26T04:38:34.335Z",
+      "end": "2023-12-31T04:16:49.717Z",
       "offers": [
-        "62ccc628eb8591121682d6b0",
+        "64cc707d2cd6b659590887ae",
         "62ccd101eb8591121682e4d6",
         "62ccc61aeb8591121682d6a1"
       ],
-      "notes": "NA COMPRA DE 3 UNID. - CADA UNIDADE FICARÁ NO VALOR DE R$ 69,90 - VOCÊ PODE ESCOLHER ENTRE AS 3 FRAGÂNCIAS DISPONÍVEIS - ATTIMO - HIBERNATUS E EURO MEN"
+      "notes": "COLOQUE 3 TK ESSÊNCIAS NO CARRINHO E PAGUE SOMENTE 2 UNID. NA COMPRA DE 3 UNID. - VOCÊ PODE ESCOLHER ENTRE AS 3 FRAGÂNCIAS DISPONÍVEIS "
     },
     {
       "type": "banners-grid",

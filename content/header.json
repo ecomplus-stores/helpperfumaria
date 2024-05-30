@@ -31,7 +31,7 @@
       "/laborat?LABOTRAT"
     ],
     "random": 2,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,

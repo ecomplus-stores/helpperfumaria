@@ -30,8 +30,8 @@
       "/avon?AVON",
       "/laborat?LABOTRAT"
     ],
-    "random": 1,
-    "full_width": true
+    "random": 6,
+    "full_width": false
   },
   "desktop_megamenu": false,
   "search_input": true,

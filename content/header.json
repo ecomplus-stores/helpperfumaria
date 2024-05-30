@@ -19,21 +19,21 @@
   },
   "categories_list": {
     "featured": [
-      "/lonkoomparfum?LONKOOM PARFUM",
-      "/vivinevo?VIVINEVO",
+      "/paris-elysees?PARIS ELYSEES",
+      "/tk-essencias?TK ESSÊNCIAS",
       "/hinode?HINODE",
-      "/paris-elizer?PARIS ELYSSES",
-      "/natura?NATURA",
-      "/fattore?FATTORE",
-      "/linha-infantil?LINHA INFANTIL",
+      "/amei-cosmeticos?AMEI COSMÉTICOS",
+      "/brand-collection?BRAND COLLECTION",
+      "/perfumes-masculinos?PERFUMES MASCULINOS",
+      "/perfumes-femininos?PERFUMES FEMININOS",
       "/belkit?BELKIT",
       "/avon?AVON",
       "/laborat?LABOTRAT"
     ],
-    "random": 2,
+    "random": 1,
     "full_width": true
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true

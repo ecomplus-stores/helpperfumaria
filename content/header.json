@@ -26,7 +26,9 @@
       "/brand-collection?BRAND COLLECTION",
       "/perfumes-masculinos?PERFUMES MASCULINOS",
       "/perfumes-femininos?PERFUMES FEMININOS",
-      "/avon?AVON"
+      "/avon?AVON",
+      "/idem?IDEM",
+      "/natura?NATURA"
     ],
     "random": 6,
     "full_width": true

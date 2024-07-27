@@ -26,9 +26,7 @@
       "/brand-collection?BRAND COLLECTION",
       "/perfumes-masculinos?PERFUMES MASCULINOS",
       "/perfumes-femininos?PERFUMES FEMININOS",
-      "/belkit?BELKIT",
-      "/avon?AVON",
-      "/laborat?LABOTRAT"
+      "/avon?AVON"
     ],
     "random": 6,
     "full_width": true

@@ -3110,6 +3110,18 @@
     </url>
   
     <url>
+      <loc>https://helpperfumaria.com.br/paleta-de-sombra-colours-eyeshadow-miss-rose---cor-4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://helpperfumaria.com.br/paleta-de-sombra-colours-eyeshadow-miss-rose---cor-1</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://helpperfumaria.com.br/paris-elysees</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3248,25 +3260,25 @@
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://helpperfumaria.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/pages/termos</loc>
+      <loc>https://helpperfumaria.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://helpperfumaria.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://helpperfumaria.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

@@ -3206,6 +3206,12 @@
     </url>
   
     <url>
+      <loc>https://helpperfumaria.com.br/protetor-facial-fps-50-com-base---bege-claro-sunless-60g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://helpperfumaria.com.br/paris-elysees</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3386,15 +3392,15 @@
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://helpperfumaria.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://helpperfumaria.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -3404,13 +3410,13 @@
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/app/index</loc>
+      <loc>https://helpperfumaria.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/admin/index</loc>
+      <loc>https://helpperfumaria.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

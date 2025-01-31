@@ -29,6 +29,13 @@
           "mobile_img": "/img/uploads/banner-homem-sagaz-celular.png"
         },
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-una-infinito.png",
+          "link": "https://www.natura.com.br/p/desodorante-perfume-una-infinito-75-ml/NATBRA-43135?position=3&listTitle=einstein+recommender+-+confira+tamb%C3%A9m&consultoria=socorrochaves",
+          "mobile_img": "/img/uploads/banner-una-infinito.jpg"
+        },
+        {
           "img": "/img/uploads/banner-site-2-tiny-webp.webp",
           "link": "https://helpperfumaria.com.br/search?term=VIVINEVO",
           "alt": "FRETE GRÁTIS",
@@ -49,13 +56,6 @@
           "img": "/img/uploads/banner-potao-webp.webp",
           "mobile_img": "/img/uploads/banner-pot-webp.webp",
           "link": "/fattore"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-una-infinito.png",
-          "link": "https://www.natura.com.br/p/desodorante-perfume-una-infinito-75-ml/NATBRA-43135?position=3&listTitle=einstein+recommender+-+confira+tamb%C3%A9m&consultoria=socorrochaves",
-          "mobile_img": "/img/uploads/banner-una-infinito.jpg"
         }
       ]
     },

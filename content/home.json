@@ -17,6 +17,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-site-paris-elysees.png",
+          "mobile_img": "/img/uploads/banner-site-paris-elysees.png",
+          "link": "/paris-elysees"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-una-infinito.png",
           "link": "https://www.natura.com.br/p/desodorante-perfume-una-infinito-75-ml/NATBRA-43135?position=3&listTitle=einstein+recommender+-+confira+tamb%C3%A9m&consultoria=socorrochaves",
           "mobile_img": "/img/uploads/banner-una-infinito.jpg"
@@ -35,13 +42,6 @@
           "img": "/img/uploads/loonkon-1200x300px-webp.webp",
           "mobile_img": "/img/uploads/loonkon-480x300px-mobile-webp.webp",
           "link": "https://helpperfumaria.com.br/loonkom-parfum"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-site-paris-elysees.png",
-          "mobile_img": "/img/uploads/banner-site-paris-elysees.png",
-          "link": "/paris-elysees"
         }
       ]
     },

@@ -52,11 +52,11 @@
     {
       "type": "offers-timer",
       "max_hours": 1,
-      "start": "2025-05-25T03:00:29.214Z",
+      "start": "2025-05-25T03:03:12.110Z",
       "end": "2025-08-30T03:00:31.514Z",
       "offers": [
         "682fba10578b5f7954228c8e",
-        "64bdf3565e60690370706575",
+        "62ccb9aaeb8591121682c6f8",
         "64bdf3455e60690370706537"
       ],
       "notes": "OFERTA POR TEMPO LIMITADO "

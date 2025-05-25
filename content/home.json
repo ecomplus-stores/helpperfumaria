@@ -52,14 +52,14 @@
     {
       "type": "offers-timer",
       "max_hours": 1,
-      "start": "2025-01-29T04:38:34.335Z",
-      "end": "2025-02-28T04:16:49.717Z",
+      "start": "2025-05-25T03:00:29.214Z",
+      "end": "2025-08-30T03:00:31.514Z",
       "offers": [
-        "64cc707d2cd6b659590887ae",
+        "682fba10578b5f7954228c8e",
         "64bdf3565e60690370706575",
         "64bdf3455e60690370706537"
       ],
-      "notes": "COLOQUE 3 UNID. TK ESSÊNCIAS NO SEU CARRINHO E PAGUE SOMENTE 2 UNID. - VOCÊ PODE ESCOLHER QUALQUER FRAGÂNCIAS DESTA LINHA "
+      "notes": "OFERTA POR TEMPO LIMITADO "
     },
     {
       "type": "banners-grid",

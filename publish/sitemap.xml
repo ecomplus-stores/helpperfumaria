@@ -4658,13 +4658,13 @@
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/pages/trocas</loc>
+      <loc>https://helpperfumaria.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/pages/termos</loc>
+      <loc>https://helpperfumaria.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4688,15 +4688,15 @@
     </url>
   
     <url>
-      <loc>https://helpperfumaria.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://helpperfumaria.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://helpperfumaria.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>

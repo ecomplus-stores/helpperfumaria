@@ -52,14 +52,14 @@
     {
       "type": "offers-timer",
       "max_hours": 1,
-      "start": "2025-05-25T03:03:12.110Z",
-      "end": "2025-08-30T03:00:31.514Z",
+      "start": "2026-04-20T03:03:12.110Z",
+      "end": "2026-05-30T03:00:31.514Z",
       "offers": [
         "682fba10578b5f7954228c8e",
-        "62ccb9aaeb8591121682c6f8",
+        "69c74a6ca250b50298a1d9f6",
         "63212d0873321213f8751d47"
       ],
-      "notes": "OFERTA POR TEMPO LIMITADO "
+      "notes": "COMPRE 1 POR: 39,90 \nCOMPRE 2 POR: 50,00 \nCOMPRE 1 POR: 95,00\nVALORES VÁLIDAS SOMENTE PARA \nPAGAMENTO EM DINHEIRO OU PIX \n\n"
     },
     {
       "type": "banners-grid",

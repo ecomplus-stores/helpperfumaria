@@ -8,13 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00-480-300-px-2.gif"
-        },
-        {
           "start": "2026-04-22T02:44:24.777Z",
           "end": "2027-01-01T02:44:31.984Z",
           "img": "/img/uploads/novo.png",
@@ -27,6 +20,13 @@
           "img": "/img/uploads/novo-1200x300cm.png",
           "link": "https://helpperfumaria.com.br/body-splash",
           "mobile_img": "/img/uploads/novo-1200x300cm.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00.gif",
+          "alt": "Banner sample two",
+          "mobile_img": "/img/uploads/frete-gratis-para-compras-acima-de-r-150-00-480-300-px-2.gif"
         },
         {
           "img": "/img/uploads/banner-site-2-tiny-webp.webp",

@@ -84,16 +84,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-responsivo-menor.jpg",
-          "link": "https://helpperfumaria.com.br/hidratante-idem-02-feminino-angel-250g",
-          "mobile_img": "/img/uploads/banner-responsivo-menor.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,

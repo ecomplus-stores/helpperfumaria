@@ -85,7 +85,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
       "sort": "lowest_price",
       "title": "OFERTAS ESPECIAIS ",

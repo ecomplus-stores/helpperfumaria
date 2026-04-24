@@ -64,16 +64,6 @@
       "notes": "PROMOÇÃO PROGRESSIVA \n1 BODY SPLASH - POR: 39,90 - 2 UNID. POR: 50,00 \n4 UNID. POR: 95,00\n\nVALORES VÁLIDAS SOMENTE PARA \nPAGAMENTO EM DINHEIRO OU PIX \n\n"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "66554d95f4e6d85ab2968e7a:categories:PARIS ELYSEES:/paris-elysees",
-      "sort": "lowest_price",
-      "title": "OFERTAS ESPECIAIS ",
-      "headless": false,
-      "limit": 15,
-      "page": 4
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -92,6 +82,16 @@
           "link": "https://helpperfumaria.com.br/perfumes-masculinos"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "66554d95f4e6d85ab2968e7a:categories:PARIS ELYSEES:/paris-elysees",
+      "sort": "lowest_price",
+      "title": "OFERTAS ESPECIAIS ",
+      "headless": false,
+      "limit": 15,
+      "page": 4
     },
     {
       "type": "banners-grid",

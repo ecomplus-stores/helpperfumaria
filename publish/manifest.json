@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ee5e640ed427c0f748780aca63002a09.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.5ad824615463dcfb5e97802e866eb1ed.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.cb8a00901f4534d5904128e340279e78.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.de4a6529c9eb44bb834d687ac977e2d1.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.7f50cf001795df2b49c2f1fc60d71f27.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Help Perfumaria & Cosméticos ",
+  "short_name": "Help Perfumaria & Cosméticos ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos uma empresa Multimarcas, trabalhamos com marcas que já são extremamente conceituadas no Mercado Brasileiro, como Natura, Boticário, Avon, Eudora..... entre outras, mas também trabalhamos com perfumes contratipos de algumas marcas desconhecidas de grande parte do público, porém que tem uma qualidade excelente, Tão boa quanto das grandes Marcas, em algumas determinadas fragrâncias chegam a superar as de marcas conceituadas. Nos visite e conheça os nossos perfumes da IDEM, da INSPIRATTO ESSENCE, LONKOOM entre outras.\n\n",
+  "background_color": "#ffffff",
+  "theme_color": "#ba30ba"
+}
